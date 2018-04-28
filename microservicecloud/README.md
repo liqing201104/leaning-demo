@@ -1,7 +1,3 @@
-# 
-
-![img](file:///E:/data/ynote/qq7B5814D66D5F74289C0782201DCB8527/84fadfd51612425dbeb0e410667fe1d2/clipboard.png)
-
 # 1. 从面试开始
 
 ## 1.1. 什么是为服务
