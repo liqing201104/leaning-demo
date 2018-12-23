@@ -1956,7 +1956,7 @@ public class MessageSourceAutoConfiguration {
     /**
 	 * Comma-separated list of basenames (essentially a fully-qualified classpath
 	 * location), each following the ResourceBundle convention with relaxed support for
-	 * slash based locations. If it doesn't contain a package qualifier (such as
+	 *mapper
 	 * "org.mypackage"), it will be resolved from the classpath root.
 	 */
 	private String basename = "messages";  
