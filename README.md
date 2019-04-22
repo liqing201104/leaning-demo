@@ -18,3 +18,7 @@
 # Spring Cloud
 
 1. [笔记](./springcloud/Spring-Cloud.md) Spring Cloud 笔记摘录
+
+# [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
+1. [笔记摘录](./git/README.md)
+
